@@ -1,8 +1,8 @@
 # LLM Engineering - Master AI and LLMs
 
-## My journey through Ed Donner’s Udemy course using LLaMA 3.2-1B Instruct
+## My journey through Ed Donner's Udemy course using LLaMA 3.2-1B Instruct
 
-![lama](LLM%20UDEMY/image/lama.png)
+![Image](https://github.com/user-attachments/assets/e1a1b25e-0637-4b28-a77b-09d9d87ad914)
 
 This repository contains all Jupyter notebooks and hands-on exercises from the **LLM Engineering** course by Ed Donner on Udemy. I have implemented and executed the entire course using the **LLaMA 3.2-1B Instruct** model via **Hugging Face**, ensuring full compatibility with both local and Colab environments.
 
@@ -37,7 +37,7 @@ This repo is organized by week, as per the course structure:
 - All solutions adapted for LLaMA 3.2-1B using Hugging Face
 
 ### Want to Explore?
-Feel free to modify, extend, or run these notebooks. The best learning happens through experimentation. You’re welcome to submit pull requests if you’ve built alternative solutions using LLaMA 3.2.
+Feel free to modify, extend, or run these notebooks. The best learning happens through experimentation. You're welcome to submit pull requests if you've built alternative solutions using LLaMA 3.2.
 
 ---
 
@@ -48,4 +48,4 @@ All course content and original idea credits go to **Ed Donner**. This implement
 
 ---
 
-Let’s build cool things with LLMs 🚀
+Let's build cool things with LLMs 🚀
